@@ -1,0 +1,12 @@
+Source: libconbtui
+Section: x11
+Priority: optional
+Maintainer: Aapo Makela <aapo.makela@nokia.com>
+Build-Depends: debhelper (>=4.0.0)
+Standards-Version: 3.6.1
+ 
+Package: conbtdialogs-dev
+Architecture: all
+Depends: pkg-config
+Description: DBUS API for invoking various Bluetooth dialogs
+ This package provides the DBUS API for invoking various Bluetooth dialogs.

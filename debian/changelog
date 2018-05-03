@@ -1,0 +1,35 @@
+libconbtui (1.4.3+0m5) unstable; urgency=low
+
+  * This entry has been added by BIFH queue processor
+    Suffix +0m5 added to package revision
+
+ -- Antti Julku <ext-antti.julku@nokia.com>  Tue, 08 Dec 2009 14:30:41 +0200
+
+libconbtui (1.4.3) unstable; urgency=low
+
+  * Fixes: NB#147575 - libconbtui: Bluetooth DBUS UI dialogs - wrong args
+    in the example code (PR1.2)
+
+ -- Markus Silvan <ext-markus.p.silvan@nokia.com>  Tue, 24 Nov 2009 11:34:53 +0200
+
+libconbtui (1.4.2) unstable; urgency=low
+
+  * Fixes NB#144001 - libconbtui: Bluetooth DBUS UI dialogs - wrong args
+    in the example code
+  * Removed extra whitespace
+  * Removed glib-gettextize from autogen.sh
+
+ -- Markus Silvan <ext-markus.p.silvan@nokia.com>  Wed, 04 Nov 2009 09:53:40 +0200
+
+libconbtui (1.4.1) unstable; urgency=low
+
+  * removed unnecessary libraries from configure.in
+
+ -- Aapo Makela <aapo.makela@nokia.com>  Thu, 29 Jun 2006 07:37:16 +0300
+
+libconbtui (1.4.0) unstable; urgency=low
+
+  * initial release
+
+ -- Aapo Makela <aapo.makela@nokia.com>  Mon, 26 Jun 2006 08:43:48 +0300
+

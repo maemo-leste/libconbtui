@@ -1,7 +1,7 @@
 #                                               -*- Autoconf -*-
 # Process this file with autoconf to produce a configure script.
 
-AC_INIT(libconbtui, 1.4.2, aapo.makela@nokia.com)
+AC_INIT(libconbtui, 1.4.3, aapo.makela@nokia.com)
 AM_INIT_AUTOMAKE(AC_PACKAGE_NAME, AC_PACKAGE_VERSION)
 AC_COPYRIGHT([Copyright (C) Nokia Corporation 2006])
 AM_CONFIG_HEADER(config.h)

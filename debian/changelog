@@ -1,3 +1,9 @@
+libconbtui (1.4.4) unstable; urgency=medium
+
+  * Fix package building
+
+ -- Ivaylo Dimitrov <ivo.g.dimitrov.75@gmail.com>  Sun, 18 Nov 2018 13:44:33 +0200
+
 libconbtui (1.4.3) unstable; urgency=medium
 
   * Initial Maemo Leste packaging.
